@@ -1,11 +1,11 @@
 {
   "gitSyncId": "67d97750d5e5717351952905_bb9c0532-8d8f-4a41-8163-d7d06cc5c5f8",
-  "id": "JSModule1_JSModule1",
+  "id": "JSModule1renamed_JSModule1renamed",
   "isPublic": true,
   "unpublishedCollection": {
     "contextType": "MODULE",
-    "moduleId": "JSModule1",
-    "name": "JSModule1",
+    "moduleId": "JSModule1renamed",
+    "name": "JSModule1renamed",
     "pluginId": "js-plugin",
     "pluginType": "JS",
     "variables": [

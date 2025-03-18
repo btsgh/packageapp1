@@ -1,6 +1,6 @@
 {
   "gitSyncId": "fb689eb8-2cd6-4b99-9ac3-5afd24d82a9b_9ec27868-8a55-4161-ac52-f04a7ee3d3d8",
-  "id": "JSModule1_JSModule1.myFun2",
+  "id": "JSModule1renamed_JSModule1renamed.myFun2",
   "isPublic": true,
   "pluginId": "js-plugin",
   "pluginType": "JS",
@@ -12,7 +12,7 @@
       "timeoutInMillisecond": 10000
     },
     "clientSideExecution": true,
-    "collectionId": "JSModule1_JSModule1",
+    "collectionId": "JSModule1renamed_JSModule1renamed",
     "confirmBeforeExecute": false,
     "contextType": "MODULE",
     "datasource": {
@@ -26,8 +26,8 @@
       }
     ],
     "executeOnLoad": false,
-    "fullyQualifiedName": "JSModule1.myFun2",
-    "moduleId": "JSModule1",
+    "fullyQualifiedName": "JSModule1renamed.myFun2",
+    "moduleId": "JSModule1renamed",
     "name": "myFun2",
     "userSetOnLoad": false
   }
